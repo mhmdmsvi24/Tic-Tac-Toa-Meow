@@ -33,10 +33,7 @@ export default [
       ...reactHooks.configs.recommended.rules,
       ...eslintPluginPrettier.configs.recommended.rules,
       "react/jsx-no-target-blank": "off",
-      "react-refresh/only-export-components": [
-        "warn",
-        { allowConstantExport: true },
-      ],
+      "react-refresh/only-export-components": ["warn", { allowConstantExport: true }],
       "prettier/prettier": "error",
     },
     extends: ["prettier"],
