@@ -18,7 +18,7 @@ Welcome to XO Game, a modern take on the classic Tic-Tac-Toe game. This web-base
 ### Build Tools and Package Management
 
 - **Vite**
-- **Yarn**
+- **NPM**
 
 ### Code Quality and Formatting
 
